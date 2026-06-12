@@ -61,8 +61,8 @@ onMounted(() => {
       cursor.style.left = `${mx - 6}px`
       cursor.style.top = `${my - 6}px`
 
-      fx += (mx - fx) * 0.02
-      fy += (my - fy) * 0.02
+      fx += (mx - fx) * 0.08
+      fy += (my - fy) * 0.08
 
       follower.style.left = `${fx - 20}px`
       follower.style.top = `${fy - 20}px`
