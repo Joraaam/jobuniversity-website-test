@@ -1,0 +1,1 @@
+<template><main class="page"><span class="eyebrow">Vorteile</span><h1>Warum JobUniversity?</h1><div class="adv-grid"><div class="adv-card">⚡<h3>Schnell</h3><p>Direkte Vermittlung.</p></div><div class="adv-card">🎯<h3>Passend</h3><p>Talente und Firmen, die matchen.</p></div><div class="adv-card">🚀<h3>Modern</h3><p>Gen-Z Kommunikation.</p></div></div></main></template>

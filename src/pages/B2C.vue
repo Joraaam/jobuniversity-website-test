@@ -1,0 +1,1 @@
+<template><main class="page"><span class="eyebrow">Für Azubis</span><h1>Deine Ausbildung startet hier.</h1><div class="offer-grid"><div class="offer">Bewerbungscheck</div><div class="offer">Ausbildungs-Matching</div><div class="offer">Interview Coaching</div><div class="offer">Begleitung bis zur Zusage</div></div></main></template>

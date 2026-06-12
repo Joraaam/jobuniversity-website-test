@@ -1,0 +1,1 @@
+<template><main class="page"><span class="eyebrow">Für Unternehmen</span><h1>Azubi-Recruiting mit Wow-Faktor.</h1><div class="offer-grid"><div class="offer">Talent Kampagnen</div><div class="offer">Vorgeprüfte Bewerber</div><div class="offer">Employer Branding</div><div class="offer">Interview Video Content</div></div></main></template>
